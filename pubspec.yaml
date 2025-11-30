@@ -1,0 +1,12 @@
+name: preview_config
+description: A Flutter package for creating isolated preview environments with configurable application state for page-level component testing.
+version: 0.0.1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
